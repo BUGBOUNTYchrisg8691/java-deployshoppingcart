@@ -108,7 +108,7 @@
     </dependencies>
 
     <build>
-        <finalName>chrisg8691-web36java-gp</finalName>
+        <finalName>chrisg8691-shoppingcart</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
